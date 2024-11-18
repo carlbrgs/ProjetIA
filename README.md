@@ -2,7 +2,7 @@
 
 Ce projet vise à développer un modèle capable de déterminer si une personne est sportive. Le projet est divisé en deux parties principales :
 
-1. Analyse à partir de **données numériques**.
+1. Analyse à partir de **données numériques** telles que BodyFat, Age, Weight, etc.
 2. Analyse à partir de **données imagées**.
 
 ## 🎯 Objectifs
