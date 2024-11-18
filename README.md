@@ -87,7 +87,7 @@ Les données imagées ont été récupérées depuis les sources suivantes :
 - **Modèle basé sur les données numériques** :
   - Obtenu des résultats satisfaisants, avec une bonne capacité de prédiction.
 - **Modèle basé sur les données imagées** :
-  - Résultats en deçà des attentes.
+  - Résultats non-conformes à mes attentes.
   - Malgré tout, cette étape a permis de mieux comprendre les défis liés aux modèles basés sur des images.
 
 ---
